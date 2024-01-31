@@ -20,7 +20,7 @@
     "imageSrc": "projects/Weather.png",
     "description": "Developed weather application using a tech stack comprising HTML, CSS, and React.js.",
     "skills": ["React", "CSS", "HTML"],
-    "demo": "https://grand-quokka-a9d812.netlify.app",
+    "demo": "https://00weatherapp.netlify.app/",
     "source": "https://github.com/ismail-korir/weather-app"
   }
 ]
