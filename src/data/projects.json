@@ -3,7 +3,7 @@
     "title": "E-commerce Website",
     "imageSrc": "projects/E.png",
     "description": "Crafted SHOPA, an intuitive e-commerce platform, using HTML, CSS, and React.js. ",
-    "skills": ["React", "HTML", "CSS"],
+    "skills": ["React","JavaScript", "HTML", "CSS"],
     "demo": "https://00shopa.netlify.app/",
     "source": "https://github.com/ismail-korir/SHOPA-E-Commerce-Website"
   },
@@ -11,7 +11,7 @@
     "title": "News App",
     "imageSrc": "projects/News.png",
     "description": "Experience the latest in news delivery with our cutting-edge News App. Built using the powerful combination of Bootstrap and React.js.",
-    "skills": ["React", "Bootstrap"],
+    "skills": ["React","JavaScript", "Bootstrap"],
     "demo": "https://00news-mag.netlify.app/",
     "source": "https://github.com/ismail-korir/news-mag"
   },
@@ -19,7 +19,7 @@
     "title": "Weather App",
     "imageSrc": "projects/Weather.png",
     "description": "Developed weather application using a tech stack comprising HTML, CSS, and React.js.",
-    "skills": ["React", "CSS", "HTML"],
+    "skills": ["React","JavaScript", "CSS", "HTML"],
     "demo": "https://00weatherapp.netlify.app/",
     "source": "https://github.com/ismail-korir/weather-app"
   }
