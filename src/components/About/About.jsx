@@ -9,7 +9,7 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("about/aboutImage.png")}
+          src={getImageUrl("about/boy-svgrepo-com.svg")}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />
@@ -19,8 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                I'm a passionate front-end developer with expertise in HTML, CSS, JavaScript, and React.js. Crafting intuitive user interfaces is not just a job for me; it's a creative journey where I blend design principles with cutting-edge technology.
               </p>
             </div>
           </li>
@@ -30,8 +29,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>UI Designer</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                I have designed multiple landing pages plus my three projects in e-commerce weather app and news app
               </p>
             </div>
           </li>
